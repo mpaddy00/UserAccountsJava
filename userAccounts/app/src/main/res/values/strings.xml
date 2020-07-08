@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">userAccounts</string>
+    <string name="title_activity_login_info">LoginInfo</string>
+</resources>
